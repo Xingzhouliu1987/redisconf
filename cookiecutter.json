@@ -1,4 +1,5 @@
 {"portno":6379,
+ "redis","redis",
  "slaveof":"NO ONE",
  "masterauth":"# masterauth None",
  "slavereadonly":"no",
