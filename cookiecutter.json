@@ -3,7 +3,7 @@
  "slaveof":"NO ONE",
  "masterauth":"# masterauth None",
  "slavereadonly":"no",
- "maxmenory":"1gb",
+ "maxmemory":"1gb",
  "evictpolicy":["allkeys-lru","volatile-ttl","allkeys-random","volatile-random","volatile-lru","noeviction"],
  "password":"somethingverylong"}
 
