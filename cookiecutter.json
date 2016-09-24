@@ -1,9 +1,9 @@
-{"portno":6379,\
- "slaveof":"NO ONE",\
- "masterauth":"# masterauth None",\
- "slavereadonly":"no",\
- "maxmenory":"1gb",\
- "evictpolicy":["allkeys-lru","volatile-ttl","allkeys-random","volatile-random","volatile-lru","noeviction"],\
+{"portno":6379,
+ "slaveof":"NO ONE",
+ "masterauth":"# masterauth None",
+ "slavereadonly":"no",
+ "maxmenory":"1gb",
+ "evictpolicy":["allkeys-lru","volatile-ttl","allkeys-random","volatile-random","volatile-lru","noeviction"],
  "password":"somethingverylong"}
 
  
